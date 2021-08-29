@@ -19,7 +19,7 @@ n = rand() - RAND_MAX / 2;
 if (n > 0) {
 printf("is positive %d", n);
 }
-else if (n = 0){
+else if ((n = 0->next)){
 printf("is zero %d", n);
 }
 else
