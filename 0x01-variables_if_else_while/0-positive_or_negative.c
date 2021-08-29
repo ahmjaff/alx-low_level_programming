@@ -7,7 +7,7 @@
 *
 * Description: using the main function
 * this program prints "Programming is like building a multilingual puzzle
-* Return: 0
+* Return: void
 */
 int main()
 {
@@ -17,14 +17,14 @@ srand(time(0));
 n = rand() - RAND_MAX / 2;
 /* your code goes there */
 if (n > 0) {
-printf("%d is positive", n);
+printf("%d is positive\n", n);
 }
 else if (n < 0)
 {
-printf("%d is negative", n);
+printf("%d is negative\n", n);
 }
 else {
-printf("%d is zero", n);
+printf("%d is zero\n", n);
 }
 return (0);
 }
