@@ -3,13 +3,13 @@
 #include <stdio.h>
 /* more headers goes there */
 /**
-* main - print the string in the put function
+* main - this program prints the comparison of values
 *
 * Description: using the main function
-* this program prints "Programming is like building a multilingual puzzle
+* this program prints the comparison of integers
 * Return: void
 */
-int main()
+int main(void)
 {
 int n;
 
