@@ -8,7 +8,8 @@
 * Description: using the main function
 * the program will print the last digit and identify its class
 * Return: void
-*/int main(void)
+*/
+int main(void)
 {
 int n, digit;
 
