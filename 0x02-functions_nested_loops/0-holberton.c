@@ -1,3 +1,9 @@
+/**
+ * main - practicing putchar
+ * Description: using the main function
+ * this program prints "holberton"
+ * Return: 0
+ */
 #include "main.h"
 int main(void)
 {
