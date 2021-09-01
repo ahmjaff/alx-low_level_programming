@@ -1,10 +1,10 @@
+#include "main.h"
 /**
  * main - practicing putchar
  * Description: using the main function
  * this program prints "_putchar"
  * Return: 0
  */
-#include "main.h"
 void print_alphabet(void)
 {
 	char c;
