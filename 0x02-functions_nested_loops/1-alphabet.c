@@ -5,7 +5,7 @@
  * this program prints "_putchar"
  * Return: 0
  */
-void print_alphabet(void)
+int void print_alphabet(void)
 {
 	char c;
 
