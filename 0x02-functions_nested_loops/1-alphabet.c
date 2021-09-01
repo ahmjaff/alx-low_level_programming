@@ -1,8 +1,7 @@
 #include "main.h"
 /**
- * main - practicing putchar
- * Description: using the main function
- * this program prints "_putchar"
+ * print_alphabet - function to print abc
+ *
  * Return: 0
  */
 void print_alphabet(void)
