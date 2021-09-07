@@ -12,6 +12,6 @@ int *p;
 
 n = 98;
 p = &n;
-print ("value of 'n' : %d\n", *n); 
+printf("value of 'n' : %d\n", *n); 
 return (0);
 }
