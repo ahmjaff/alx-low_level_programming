@@ -3,8 +3,9 @@
 /**
  * main - using pointer to update value
  *
- * Description: using the main function used pointers
- * return: always 0
+ * Description: using the main function 
+ * this program used pointers to assign new value
+ * return: void
  */
 void reset_to_98(int *n)
 {
