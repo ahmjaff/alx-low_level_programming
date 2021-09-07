@@ -5,6 +5,7 @@
  *
  * Description: using the main function this program used pointers to
  * assign new value
+ * @reset_to_98: the function
  * @n: the pointer
  * return: void
  */
