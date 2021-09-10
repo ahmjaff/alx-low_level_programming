@@ -20,6 +20,10 @@ else if (a < b && c < b)
 {
 largest = b;
 }
+else if (a == b)
+{
+largest = a;
+}
 else
 {
 largest = c;
