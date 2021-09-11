@@ -7,7 +7,7 @@
 #include "main.h"
 int mul(int a, int b)
 {
-	int product;
-product = a * b;
+	int mul(a, b);
+mul(a, b) = a * b;
 		return (0);
 }
