@@ -5,6 +5,6 @@
  */
 int mul(int a, int b)
 {
-	a * b;
+	mul(a, b) = a * b;
 		return (0);
 }
