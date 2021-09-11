@@ -3,7 +3,7 @@
 
 /**
 * main - printing integers from 0-9
-* print_numbers(void) - main function
+* print_numbers - the function prnt 0-9
 * return 0
 */
 
