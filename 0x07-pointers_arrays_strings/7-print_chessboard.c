@@ -1,4 +1,4 @@
-[1:14 PM, 9/21/2021] Usman alx: #include "main.h"
+#include "main.h"
 
 /**
  * print_chessboard - Prints a chessboard.
