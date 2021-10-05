@@ -1,7 +1,7 @@
 #include <stdio.h>
 /* more headers goes there */
 /**
-* main-a program that print a-z in lowercase 
+* main-a program that print a-z in lowercase
 *
 * Description: using the main function
 * to print alphabet in lowercase
